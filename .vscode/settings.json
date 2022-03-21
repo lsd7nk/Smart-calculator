@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "__node_handle": "c",
+        "__locale": "c",
+        "s21_smartcalc_v1_0.h": "c",
+        "s21_stack.h": "c"
+    }
+}
