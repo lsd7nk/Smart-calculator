@@ -12,10 +12,7 @@ The russian version of the task can be found in the repository.
 2. [Chapter II](#chapter-ii) \
    2.1. [Information](#information)
 3. [Chapter III](#chapter-iii) \
-   3.1. [Part 1](#part-1-implementation-of-smartcalc-v10)  
-   3.2. [Part 2](#part-2-bonus-credit-calculator)  
-   3.3. [Part 3](#part-3-bonus-deposit-calculator)
-
+   3.1. [Part 1](#part-1-implementation-of-smartcalc-v10) 
 
 ## Preamble
 
