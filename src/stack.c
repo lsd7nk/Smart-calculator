@@ -1,4 +1,4 @@
-#include "s21_stack.h"
+#include "stack.h"
 
 Stack *StackInit(void) {
   Stack *stack = (Stack *)malloc(sizeof(Stack));
@@ -35,7 +35,6 @@ char *StackPop(Stack *self) {
 
     if (curLastElem) {
       popElem = curLastElem;
-      // free(self->last->lastElem);
     }
     free(self->last);
 

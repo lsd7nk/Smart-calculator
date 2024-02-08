@@ -1,5 +1,5 @@
-#ifndef SRC_S21_STACK_H_
-#define SRC_S21_STACK_H_
+#ifndef SRC_STACK_H_
+#define SRC_STACK_H_
 
 #include <math.h>
 #include <stdbool.h>
@@ -33,4 +33,4 @@ char *StackPeek(Stack *self);
 void StackDestroy(Stack **self);
 bool StackIsEmpty(Stack *self);
 
-#endif  // SRC_S21_STACK_H_
+#endif  // SRC_STACK_H_

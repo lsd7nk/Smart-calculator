@@ -1,4 +1,4 @@
-#include "s21_polish.h"
+#include "polish.h"
 
 static bool isDigit(char *token) {
   double resultDouble;

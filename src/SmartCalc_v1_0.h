@@ -1,9 +1,9 @@
-#ifndef SRC_S21_SMARTCALC_V1_0_H_
-#define SRC_S21_SMARTCALC_V1_0_H_
+#ifndef SRC_SMARTCALC_V1_0_H_
+#define SRC_SMARTCALC_V1_0_H_
 
 #include <gtk/gtk.h>
 
-#include "s21_polish.h"
+#include "polish.h"
 
 typedef struct application {
   GtkApplication *app;
@@ -74,4 +74,4 @@ static int RunApp(int argc, char **argv);
 bool IsCorrectString(char *str);
 bool isCorrectTrigString(char *str);
 
-#endif  // SRC_S21_SMARTCALC_V1_0_H_
+#endif  // SRC_SMARTCALC_V1_0_H_

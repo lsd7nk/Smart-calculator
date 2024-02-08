@@ -1,4 +1,4 @@
-#include "s21_SmartCalc_v1_0.h"
+#include "SmartCalc_v1_0.h"
 
 static bool EqualBracketCount(char *str) {
   int openingBracketCount = 0;
